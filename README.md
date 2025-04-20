@@ -1,0 +1,2 @@
+# monexo-sait
+earning app
